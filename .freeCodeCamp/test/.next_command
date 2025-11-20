@@ -39,3 +39,4 @@ echo hello SQL
 psql --username=freecodecamp --dbname=postgres
 psql -U postgres < students.sql
 psql --username=freecodecamp --dbname=postgres
+touch student_info.sh
