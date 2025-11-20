@@ -48,3 +48,4 @@ psql --username=freecodecamp --dbname=students
 ./student_info.sh
 psql --username=freecodecamp --dbname=students
 ./student_info.sh
+psql --username=freecodecamp --dbname=students
